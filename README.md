@@ -5,7 +5,7 @@
 A Flutter-based mobile and web application for real-time patient monitoring, AI-driven diagnostics, and personalized healthcare recommendations. Integrates with EHR systems and wearable devices to improve remote healthcare delivery.
 
 
-# 📌 Table of Contents
+#  Table of Contents
 1. [Features](#-features)
 2. [Tech Stack](#-tech-stack)
 3. [Project Structure](#-project-structure)
@@ -17,7 +17,7 @@ A Flutter-based mobile and web application for real-time patient monitoring, AI-
 
 ---
 
-# ✨ Features
+#  Features
 - **Real-Time Monitoring**: Collects data from wearables (e.g., heart rate, glucose levels).  
 - **Predictive Diagnostics**: AI models detect anomalies and predict health risks.  
 - **Personalized Care**: Tailored treatment plans and reminders.  
@@ -26,7 +26,7 @@ A Flutter-based mobile and web application for real-time patient monitoring, AI-
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 - **Frontend**: Flutter (Mobile/Web), React.js (Admin Dashboard)  
 - **Backend**: Node.js (API), Python (AI Services)  
 - **AI/ML**: TensorFlow, PyTorch (Predictive Models)  
@@ -35,7 +35,7 @@ A Flutter-based mobile and web application for real-time patient monitoring, AI-
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 healthtech_app/
 ├── android/ # Android-specific files
 ├── ios/ # iOS-specific files
@@ -52,7 +52,7 @@ healthtech_app/
 
 ---
 
-## 🚀 Setup Guide
+##  Setup Guide
 ### Prerequisites
 - Flutter SDK (≥3.0.0)
 - Dart (≥2.17.0)
@@ -95,7 +95,7 @@ healthtech_app/
 - Audit logs for data access (see backend/middleware/audit.js).
 
 ## License
-  
+  This project is licensed under the **[MIT License](LICENSE)**
 ---
 
 ### Key Notes:
