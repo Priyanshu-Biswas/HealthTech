@@ -1,7 +1,5 @@
 # AI-Driven Remote Patient Monitoring & Diagnostics Platform
 
-![HealthTech Logo](assets/images/logo.png)
-
 A Flutter-based mobile and web application for real-time patient monitoring, AI-driven diagnostics, and personalized healthcare recommendations. Integrates with EHR systems and wearable devices to improve remote healthcare delivery.
 
 
